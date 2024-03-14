@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo><record model="levantamiento_rep.periodo" id="demo_periodo_2023"><field name="name">2023</field></record><record model="levantamiento_rep.periodo" id="demo_periodo_2021"><field name="name">2021</field></record><record model="levantamiento_rep.periodo" id="demo_periodo_2022"><field name="name">2022</field></record></odoo>
